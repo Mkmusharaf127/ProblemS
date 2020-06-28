@@ -2,7 +2,13 @@
 a=[1,2,3]
 b=a[::-1]
 print(b)'''
-#Method 2
+
+'''Method 2
+a=[1,2]
+a.reverse()
+print(a)'''
+
+#Method 3
 a=[1,2,3,6]
 c=[]
 while(len(a)):
